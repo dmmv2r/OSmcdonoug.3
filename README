@@ -1,0 +1,11 @@
+Name: Donovan McDonough
+Date: 3/17/2022
+Project 3
+
+Compile project using command "make". Run using "./master -h".
+
+Version Control accomploshed using Git and GitHub. Project listed under user dmmv2r and called OSmcdonoug.3. Or can be found by copying and pasting this "github.com/dmmv2r/OSmcdonoug.3".
+
+WARNING: Project is incomplete but is safe to run. Cannot get exec to function properly and send over what number fork is currently active and so cannot open log files properly.
+
+Was able to add the semaphore header file but was not able to do any actual semaphore work due to the log file issues.

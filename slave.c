@@ -20,6 +20,8 @@ int main(int argc, char* argv[]) {
 
    //sem work
 
+
+
    char file[20];
    //char num = itoa(argv[1]);
 
